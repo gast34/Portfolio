@@ -1,5 +1,5 @@
 site:
-    resource: "@SiteBundle/Controller/"
+    resource: "@SiteBundle/Controller"
     type:     annotation
     prefix:   /
 
